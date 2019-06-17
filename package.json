@@ -8,6 +8,7 @@
     "build:watch": "tsc -- watch",
     "dev": "parcel index.html",
     "run": "parcel index.html",
+    "start": "parcel index.html",
     "dev:watch": "parcel watch index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
