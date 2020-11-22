@@ -1,7 +1,6 @@
 # typescript-react-hooks-starter
 A modern React (^16.8) Typescript project demonstrating the use of React hooks
 
-
 ## Import to codesandbox.io
 
 Hey, this is cool. Just [use this link](https://codesandbox.io/s/github/torbensky/typescript-react-hooks-starter) to jump right into development codesandbox.io. What a fantastic service ❤
