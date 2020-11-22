@@ -1,5 +1,5 @@
 # typescript-react-hooks-starter
-A modern React (^16.8) Typescript project demonstrating the use of React hooks
+A modern React (^17.0.0) Typescript project demonstrating the use of React hooks
 
 ## Import to codesandbox.io
 
